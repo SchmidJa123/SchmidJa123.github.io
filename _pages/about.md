@@ -8,7 +8,6 @@ redirect_from:
 ---
 
  <br />
- <br />
 
 <div style="text-align: justify"> I am an Economics PhD candidate at the University of Mannheim and a researcher at ZEW (Leibniz Center for European Economic Research). </div>
 
