@@ -29,12 +29,10 @@ with Johannes Kochems <br />
 
 
  <br />
- <br />
 <dt><strong>Statistical Significance</strong> </dt>
 with Kurt Schmidheiny and Michaela Slotwinski <br />
 
 
- <br />
  <br />
 <dt><strong>Greek Labor Markets</strong> </dt>
 with Efi Adamopoulou and Alexandre Gnaedinger <br />
