@@ -9,13 +9,8 @@ redirect_from:
 
  <br />
 
-<div style="text-align: justify"> I am an Economics PhD candidate at the University of Mannheim and a researcher at ZEW (Leibniz Center for European Economic Research). </div>
+<div style="text-align: justify"> I am an Economics PhD candidate at the University of Mannheim and a researcher at ZEW (Leibniz Center for European Economic Research). My research interests include Labor Economics, Public Economics, and the Economics of Science.  </div>
 
- <br />
-
-Research Interests
-------
-Public Economics, Labor Economics, Economics of Science
 
  <br />
 
@@ -35,3 +30,8 @@ with Kurt Schmidheiny and Michaela Slotwinski <br />
  <br />
 <dt><strong>Greek Labor Markets</strong> </dt>
 with Efi Adamopoulou and Alexandre Gnaedinger <br />
+
+
+ <br />
+<dt><strong>Inequality and Repugnance</strong> </dt>
+with Argun Aman <br />
