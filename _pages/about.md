@@ -24,7 +24,7 @@ with Johannes Kochems <br />
 
  <br />
 <dt><strong>Statistical Significance</strong> </dt>
-with Kurt Schmidheiny and Michaela Slotwinski <br />
+with Chris Roth, Kurt Schmidheiny and Michaela Slotwinski <br />
 
 
  <br />
