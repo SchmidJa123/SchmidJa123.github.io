@@ -23,7 +23,7 @@ with <a href="https://jkochems.github.io/" target="_blank" rel="noopener norefer
 
 <dd> <div style="text-align: justify"> This paper analyzes the local economic impacts of troop deployments. We exploit variation from the historic large-scale US troop withdrawal from Germany triggered by the end of the Cold War, to estimate the effect on local labor markets and public finances. We use administrative data provided by the US Department of Defense to quantify the size of the troop withdrawal at the municipal level. Using a synthetic difference-in-differences estimator, we find negative effects on local labor markets: for each withdrawn US soldier, the number of local jobs decreases by 0.53. The decrease in economic activity results in a reduction of revenues which municipalities balance by lowering their expenditures, while increasing business and property tax multipliers. In individual-level analyses, we document that workers displaced by the closure of a US military base have persistently lower employment rates. Moreover, their daily wages remain around 9.2 percent lower fifteen years after the layoff. The negative impact on labor outcomes is particularly pronounced for women, older workers, and those employed in regions with more unfavorable initial labor market conditions.  <br /><br />
 
-Media: <a href="https://www.handelsblatt.com/politik/deutschland/usa-so-trifft-ein-us-truppenabzug-die-deutsche-wirtschaft/100227818.html" target="_blank" rel="noopener noreferrer">Handelsblatt</a>
+<strong>Media:</strong> <a href="https://www.handelsblatt.com/politik/deutschland/usa-so-trifft-ein-us-truppenabzug-die-deutsche-wirtschaft/100227818.html" target="_blank" rel="noopener noreferrer">Handelsblatt</a>
 </div> </dd>
 
 
