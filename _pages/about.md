@@ -32,6 +32,7 @@ with <a href="https://jkochems.github.io/" target="_blank" rel="noopener norefer
 <a href="https://www.welt.de/regionales/baden-wuerttemberg/article6a16bdfa61be973b7ac9e929/studie-jeder-abgezogene-us-soldat-kostet-einen-halben-job.html" target="_blank" rel="noopener noreferrer">DIE WELT</a>, 
 <a href="https://www.focus.de/politik/ausland/jeder-us-soldat-kostet-einen-halben-job-trumps-abzugsplan-haette-drastische-folgen-fuer-deutschland_6f23f865-b2cb-4b78-9875-f7b4cc1a80db.html" target="_blank" rel="noopener noreferrer">Focus</a>, 
 <a href="https://www.stern.de/gesellschaft/regional/baden-wuerttemberg/us-truppen--studie--jeder-abgezogene-us-soldat-kostet-einen-halben-job-37449110.html" target="_blank" rel="noopener noreferrer">Stern</a>,
+<a href="https://www.n-tv.de/der_tag/Studie-Mit-jedem-abgezogenen-US-Soldaten-faellt-im-Umkreis-eine-halbe-Stelle-weg-id30862579.html" target="_blank" rel="noopener noreferrer">ntv</a>,
 <a href="https://www.staatsanzeiger.de/nachrichten/wirtschaft/studie-jeder-abgezogene-us-soldat-kostet-einen-halben-job/" target="_blank" rel="noopener noreferrer">Staatsanzeiger BW</a>
 </div> </dd>
 
