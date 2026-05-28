@@ -27,6 +27,7 @@ with <a href="https://jkochems.github.io/" target="_blank" rel="noopener norefer
 <a href="https://www.handelsblatt.com/politik/deutschland/usa-so-trifft-ein-us-truppenabzug-die-deutsche-wirtschaft/100227818.html" target="_blank" rel="noopener noreferrer">Handelsblatt (1)</a>, 
 <a href="https://www.handelsblatt.com/politik/international/usa-us-truppenabzug-koennte-laut-studie-rund-2650-jobs-kosten/100228271.html" target="_blank" rel="noopener noreferrer">(2)</a>, 
 <a href="https://www.zeit.de/wirtschaft/2026-05/us-truppen-deutschland-abzug-wirtschaft-kommunen-arbeitsplaetze-gxe" target="_blank" rel="noopener noreferrer">DIE ZEIT</a>, 
+<a href="https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-bundeskanzler-verbleib-li.3484192" target="_blank" rel="noopener noreferrer">Süddeutsche Zeitung</a>, 
 <a href="https://www.spiegel.de/wirtschaft/deutschland-us-truppenabzug-koennte-tausende-jobs-kosten-a-44bf16c1-8dfa-4a3b-b6c7-f464b092384f?sara_ref=re-so-wa-sh" target="_blank" rel="noopener noreferrer">DER SPIEGEL</a>, 
 <a href="https://www.welt.de/regionales/baden-wuerttemberg/article6a16bdfa61be973b7ac9e929/studie-jeder-abgezogene-us-soldat-kostet-einen-halben-job.html" target="_blank" rel="noopener noreferrer">DIE WELT</a>, 
 <a href="https://www.focus.de/politik/ausland/jeder-us-soldat-kostet-einen-halben-job-trumps-abzugsplan-haette-drastische-folgen-fuer-deutschland_6f23f865-b2cb-4b78-9875-f7b4cc1a80db.html" target="_blank" rel="noopener noreferrer">Focus</a>, 
