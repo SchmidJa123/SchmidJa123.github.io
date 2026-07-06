@@ -19,7 +19,7 @@ Work in Progress
 ------
 
 <dt><strong>Foreign Troops, Local Economies: The Economic Effects of US Withdrawals from Germany</strong> </dt>
-with <a href="https://jkochems.github.io/" target="_blank" rel="noopener noreferrer">Johannes Kochems</a> <a href="{{ site.baseurl }}/files/dp26023.pdf" target="_blank">[Working Paper]</a> <br />
+with <a href="https://jkochems.github.io/" target="_blank" rel="noopener noreferrer">Johannes Kochems</a> <a href="{{ site.baseurl }}/files/dp26023.pdf" target="_blank">[Discussion Paper]</a> <br />
 
 <dd> <div style="text-align: justify"> This paper analyzes the local economic impacts of troop deployments. We exploit variation from the historic large-scale US troop withdrawal from Germany triggered by the end of the Cold War, to estimate the effect on local labor markets and public finances. We use administrative data provided by the US Department of Defense to quantify the size of the troop withdrawal at the municipal level. Using a synthetic difference-in-differences estimator, we find negative effects on local labor markets: for each withdrawn US soldier, the number of local jobs decreases by 0.53. The decrease in economic activity results in a reduction of revenues which municipalities balance by lowering their expenditures, while increasing business and property tax multipliers. In individual-level analyses, we document that workers displaced by the closure of a US military base have persistently lower employment rates. Moreover, their daily wages remain around 9.2 percent lower fifteen years after the layoff. The negative impact on labor outcomes is particularly pronounced for women, older workers, and those employed in regions with more unfavorable initial labor market conditions.  <br /><br />
 
@@ -41,15 +41,15 @@ with <a href="https://jkochems.github.io/" target="_blank" rel="noopener norefer
 <a href="https://www.macon.com/news/nation-world/world/article316301383.html" target="_blank" rel="noopener noreferrer">The Telegraph</a> <br />
 <strong>Podcast:</strong> 
 ZEW Wirklich Wirtschaft:
-<a href="https://podcasts.apple.com/de/podcast/wie-viele-jobs-kostete-der-us-truppenabzug/id1860844609?i=1000775275753" target="_blank" rel="noopener noreferrer">Apple Podcasts</a>, 
-<a href="https://open.spotify.com/episode/3Wf7VlsW5tgBJZNvb1tTQh" target="_blank" rel="noopener noreferrer">Spotify</a> 
+<a href="https://open.spotify.com/episode/3Wf7VlsW5tgBJZNvb1tTQh" target="_blank" rel="noopener noreferrer">Spotify</a>,
+<a href="https://podcasts.apple.com/de/podcast/wie-viele-jobs-kostete-der-us-truppenabzug/id1860844609?i=1000775275753" target="_blank" rel="noopener noreferrer">Apple Podcasts</a>
 </div> </dd>
 
 
 
 <br />
 <dt><strong>Inequality as a Constraint on (Repugnant) Markets</strong></dt>
-with <a href="https://paulhild.github.io/" target="_blank" rel="noopener noreferrer">Argun Hild</a> (draft available soon)<br />
+with <a href="https://paulhild.github.io/" target="_blank" rel="noopener noreferrer">Paul Hild</a> <a href="{{ site.baseurl }}/files/hild_schmidhaeuser_repugnance.pdf" target="_blank">[Draft]</a><br />
 <dd><div style="text-align: justify"> Repugnant markets, such as organ sales, are often restricted even when they could raise efficiency. We study whether income inequality between transacting parties shapes public repugnance toward such exchanges. We implement vignette experiments in US and European samples. Across both samples, inequality between parties is a powerful predictor of repugnance: transactions are viewed as most objectionable when a low-income individual sells to a medium-income individual and least objectionable when both parties are medium-income. Between the two samples, we find clear differences in baseline attitudes. Europeans show stronger repugnance overall: they are more likely to judge kidney sales and surrogate motherhood as unacceptable, while they do not view prostitution as objectionable to the same degree as Americans, consistent with prevailing social norms. These results provide new evidence on how cultural norms and the direction of inequality shape acceptance of contested markets and can inform debates on the design of market regulation. <br /> </div> </dd>
 
 
