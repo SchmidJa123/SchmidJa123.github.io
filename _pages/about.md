@@ -40,8 +40,8 @@ with <a href="https://jkochems.github.io/" target="_blank" rel="noopener norefer
 <a href="https://www.bloomberg.com/news/articles/2026-06-27/trump-s-troop-withdrawal-leaves-germany-s-base-towns-in-limbo" target="_blank" rel="noopener noreferrer">Bloomberg</a>,
 <a href="https://www.macon.com/news/nation-world/world/article316301383.html" target="_blank" rel="noopener noreferrer">The Telegraph</a> <br />
 <strong>Podcast:</strong> 
-ZEW Wirklich Wirtschaft 
-<a href="https://podcasts.apple.com/de/podcast/wie-viele-jobs-kostete-der-us-truppenabzug/id1860844609?i=1000775275753" target="_blank" rel="noopener noreferrer">Apple Podcasts</a> 
+ZEW Wirklich Wirtschaft:
+<a href="https://podcasts.apple.com/de/podcast/wie-viele-jobs-kostete-der-us-truppenabzug/id1860844609?i=1000775275753" target="_blank" rel="noopener noreferrer">Apple Podcasts</a>, 
 <a href="https://open.spotify.com/episode/3Wf7VlsW5tgBJZNvb1tTQh" target="_blank" rel="noopener noreferrer">Spotify</a> 
 </div> </dd>
 
