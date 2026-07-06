@@ -35,17 +35,21 @@ with <a href="https://jkochems.github.io/" target="_blank" rel="noopener norefer
 <a href="https://www.focus.de/politik/ausland/jeder-us-soldat-kostet-einen-halben-job-trumps-abzugsplan-haette-drastische-folgen-fuer-deutschland_6f23f865-b2cb-4b78-9875-f7b4cc1a80db.html" target="_blank" rel="noopener noreferrer">Focus</a>, 
 <a href="https://www.stern.de/gesellschaft/regional/baden-wuerttemberg/us-truppen--studie--jeder-abgezogene-us-soldat-kostet-einen-halben-job-37449110.html" target="_blank" rel="noopener noreferrer">Stern</a>,
 <a href="https://www.n-tv.de/der_tag/Studie-Mit-jedem-abgezogenen-US-Soldaten-faellt-im-Umkreis-eine-halbe-Stelle-weg-id30862579.html" target="_blank" rel="noopener noreferrer">ntv</a>,
-<a href="https://www.staatsanzeiger.de/nachrichten/wirtschaft/studie-jeder-abgezogene-us-soldat-kostet-einen-halben-job/" target="_blank" rel="noopener noreferrer">Staatsanzeiger BW</a>;
+<a href="https://www.staatsanzeiger.de/nachrichten/wirtschaft/studie-jeder-abgezogene-us-soldat-kostet-einen-halben-job/" target="_blank" rel="noopener noreferrer">Staatsanzeiger BW</a> <br />
 <strong>Media International:</strong> 
 <a href="https://www.bloomberg.com/news/articles/2026-06-27/trump-s-troop-withdrawal-leaves-germany-s-base-towns-in-limbo" target="_blank" rel="noopener noreferrer">Bloomberg</a>,
-<a href="https://www.macon.com/news/nation-world/world/article316301383.html" target="_blank" rel="noopener noreferrer">The Telegraph</a>
+<a href="https://www.macon.com/news/nation-world/world/article316301383.html" target="_blank" rel="noopener noreferrer">The Telegraph</a> <br />
+<strong>Podcast:</strong> 
+ZEW Wirklich Wirtschaft 
+<a href="https://podcasts.apple.com/de/podcast/wie-viele-jobs-kostete-der-us-truppenabzug/id1860844609?i=1000775275753" target="_blank" rel="noopener noreferrer">Apple Podcasts</a> 
+<a href="https://open.spotify.com/episode/3Wf7VlsW5tgBJZNvb1tTQh" target="_blank" rel="noopener noreferrer">Spotify</a> 
 </div> </dd>
 
 
 
 <br />
 <dt><strong>Inequality as a Constraint on (Repugnant) Markets</strong></dt>
-with <a href="https://argunhild.github.io/" target="_blank" rel="noopener noreferrer">Argun Hild</a> (draft available soon)<br />
+with <a href="https://paulhild.github.io/" target="_blank" rel="noopener noreferrer">Argun Hild</a> (draft available soon)<br />
 <dd><div style="text-align: justify"> Repugnant markets, such as organ sales, are often restricted even when they could raise efficiency. We study whether income inequality between transacting parties shapes public repugnance toward such exchanges. We implement vignette experiments in US and European samples. Across both samples, inequality between parties is a powerful predictor of repugnance: transactions are viewed as most objectionable when a low-income individual sells to a medium-income individual and least objectionable when both parties are medium-income. Between the two samples, we find clear differences in baseline attitudes. Europeans show stronger repugnance overall: they are more likely to judge kidney sales and surrogate motherhood as unacceptable, while they do not view prostitution as objectionable to the same degree as Americans, consistent with prevailing social norms. These results provide new evidence on how cultural norms and the direction of inequality shape acceptance of contested markets and can inform debates on the design of market regulation. <br /> </div> </dd>
 
 
