@@ -38,7 +38,8 @@ with <a href="https://jkochems.github.io/" target="_blank" rel="noopener norefer
 <a href="https://www.staatsanzeiger.de/nachrichten/wirtschaft/studie-jeder-abgezogene-us-soldat-kostet-einen-halben-job/" target="_blank" rel="noopener noreferrer">Staatsanzeiger BW</a> <br />
 <strong>Media International:</strong> 
 <a href="https://www.bloomberg.com/news/articles/2026-06-27/trump-s-troop-withdrawal-leaves-germany-s-base-towns-in-limbo" target="_blank" rel="noopener noreferrer">Bloomberg</a>,
-<a href="https://www.macon.com/news/nation-world/world/article316301383.html" target="_blank" rel="noopener noreferrer">The Telegraph</a> <br />
+<a href="https://www.macon.com/news/nation-world/world/article316301383.html" target="_blank" rel="noopener noreferrer">The Telegraph</a>,
+<a href="https://en.ilsole24ore.com/art/us-bases-and-the-local-economy-AJPzqSG?refresh_ce=1" target="_blank" rel="noopener noreferrer">IlSole24Ore</a> <br />
 <strong>Podcast:</strong> 
 ZEW Wirklich Wirtschaft:
 <a href="https://open.spotify.com/episode/3Wf7VlsW5tgBJZNvb1tTQh" target="_blank" rel="noopener noreferrer">Spotify</a>,
