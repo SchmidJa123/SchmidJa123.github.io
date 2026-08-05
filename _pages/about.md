@@ -61,9 +61,5 @@ with <a href="https://sites.google.com/site/efiadamopoulou/home?authuser=0" targ
 
  <br />
 <dt><strong>Statistical Significance</strong> </dt>
-with <a href="https://sites.google.com/site/chrisrotheconomics" target="_blank" rel="noopener noreferrer">Chris Roth</a>, <a href="https://www.schmidheiny.name/" target="_blank" rel="noopener noreferrer">Kurt Schmidheiny</a> and <a href="https://sites.google.com/site/michaelaslotwinski/home" target="_blank" rel="noopener noreferrer">Michaela Slotwinski</a> <br />
+with <a href="https://sites.google.com/site/abelbrodeur/" target="_blank" rel="noopener noreferrer">Abel Brodeur</a> and <a href="https://sites.google.com/site/michaelaslotwinski/home" target="_blank" rel="noopener noreferrer">Michaela Slotwinski</a> <br />
 
-
- <br />
-<dt><strong>Significance Slant</strong> </dt>
-with <a href="https://fabianroeben.com/" target="_blank" rel="noopener noreferrer">Fabian Roeben</a>, <a href="https://sites.google.com/site/chrisrotheconomics" target="_blank" rel="noopener noreferrer">Chris Roth</a> and <a href="https://sites.google.com/site/michaelaslotwinski/home" target="_blank" rel="noopener noreferrer">Michaela Slotwinski</a> <br />
