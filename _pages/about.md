@@ -15,7 +15,7 @@ redirect_from:
 
  <br />
 
-Work in Progress
+Working Papers
 ------
 
 <dt><strong>Foreign Troops, Local Economies: The Economic Effects of US Withdrawals from Germany (JMP)</strong> </dt>
@@ -55,6 +55,10 @@ with <a href="https://paulhild.github.io/" target="_blank" rel="noopener norefer
 
 
  <br />
+
+Work in Progress
+------
+
 <dt><strong>Greek Labor Markets</strong> </dt>
 with <a href="https://sites.google.com/site/efiadamopoulou/home?authuser=0" target="_blank" rel="noopener noreferrer">Efi Adamopoulou</a> and <a href="https://alexandregnaedinger.weebly.com/" target="_blank" rel="noopener noreferrer">Alexandre Gnaedinger</a> <br />
 
@@ -62,4 +66,9 @@ with <a href="https://sites.google.com/site/efiadamopoulou/home?authuser=0" targ
  <br />
 <dt><strong>Statistical Significance</strong> </dt>
 with <a href="https://sites.google.com/site/abelbrodeur/" target="_blank" rel="noopener noreferrer">Abel Brodeur</a> and <a href="https://sites.google.com/site/michaelaslotwinski/home" target="_blank" rel="noopener noreferrer">Michaela Slotwinski</a> <br />
+
+
+ <br />
+<dt><strong>Foreign Troops, Local Politics: The Political Effects of US Withdrawals from Germany</strong> </dt>
+with <a href="https://jkochems.github.io/" target="_blank" rel="noopener noreferrer">Johannes Kochems</a> <br />
 
