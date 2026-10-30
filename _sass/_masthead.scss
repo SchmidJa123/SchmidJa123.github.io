@@ -46,13 +46,16 @@
   }
 }
 
+/* applies to the site title and the nav links alike, so they match */
 .masthead__menu-item {
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  font-family: $georgia;
+  font-weight: 700;
 
+  /* the site title, which carries the name */
   &--lg {
     padding-right: 2em;
-    font-weight: 700;
   }
 }

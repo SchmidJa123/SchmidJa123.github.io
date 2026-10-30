@@ -9,7 +9,7 @@ redirect_from:
 
  <br />
 
-<dt><strong>Welcome!</strong> </dt>
+<dt class="welcome"><strong>Welcome!</strong> </dt>
 <div style="text-align: justify"> I am an Economics PhD candidate at the Center for Doctoral Studies in Economics (CDSE) at University of Mannheim and a researcher at ZEW (Leibniz Center for European Economic Research). My supervisors are <a href="https://www.eckhardjaneba.eu/" target="_blank" rel="noopener noreferrer">Eckhard Janeba</a> and <a href="https://sites.google.com/view/siegloch/" target="_blank" rel="noopener noreferrer">Sebastian Siegloch</a>. I recently joined the chair of <a href="https://www.kristina-strohmaier.de/" target="_blank" rel="noopener noreferrer">Kristina Strohmaier</a> at the University of Freiburg. I do applied research in the fields of Public Economics, Labor Economics, and the Economics of Science.  </div>
 
 
@@ -62,13 +62,9 @@ Work in Progress
 <dt><strong>Greek Labor Markets</strong> </dt>
 with <a href="https://sites.google.com/site/efiadamopoulou/home?authuser=0" target="_blank" rel="noopener noreferrer">Efi Adamopoulou</a> and <a href="https://alexandregnaedinger.weebly.com/" target="_blank" rel="noopener noreferrer">Alexandre Gnaedinger</a> <br />
 
-
- <br />
 <dt><strong>Statistical Significance</strong> </dt>
 with <a href="https://sites.google.com/site/abelbrodeur/" target="_blank" rel="noopener noreferrer">Abel Brodeur</a> and <a href="https://sites.google.com/site/michaelaslotwinski/home" target="_blank" rel="noopener noreferrer">Michaela Slotwinski</a> <br />
 
-
- <br />
 <dt><strong>Foreign Troops, Local Politics: The Political Effects of US Withdrawals from Germany</strong> </dt>
 with <a href="https://jkochems.github.io/" target="_blank" rel="noopener noreferrer">Johannes Kochems</a> <br />
 

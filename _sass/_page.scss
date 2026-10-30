@@ -90,6 +90,11 @@
     font-weight: bold;
   }
 
+  /* welcome lead-in, sized to match the h2 section headings */
+  dt.welcome {
+    font-size: $type-size-4;
+  }
+
   dd {
     margin-left: 1em;
     font-family: $sans-serif;
