@@ -209,6 +209,17 @@
       display: table-cell;
       vertical-align: middle;
 
+      /* Nav links sit at the right edge. Taking them out of flow keeps them
+         out of the width the greedy-nav script measures, which otherwise
+         reads the list as overflowing and hides them behind the menu button. */
+      &:not(.masthead__menu-item--lg) {
+        position: absolute;
+        right: 0;
+        top: 50%;
+        transform: translateY(-50%);
+        white-space: nowrap;
+      }
+
       &:first-child {
         font-weight: bold;
         text-wrap: wrap;

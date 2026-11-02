@@ -102,7 +102,10 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
+/* A teal dark enough to read as body text, where $info-color reached only
+   2.6 to 1 against white. Its high saturation sets it apart from the muted
+   $chip-doc-color used on document chips. Contrast here is 5.4 to 1. */
+$link-color                 : #0E7490;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
@@ -127,6 +130,16 @@ $medium                     : 768px !default;
 $medium-wide                : 900px !default;
 $large                      : 925px !default;
 $x-large                    : 1280px !default;
+
+/* Width shared by the masthead and the article, so the nav lines up with the
+   text. Narrower than the container, which ran full width once the sidebar
+   was dropped. */
+$content-max-width          : 1040px;
+
+/* Marks a chip that opens a document, as against one that goes to a web page
+   or an address, which uses $link-color to match links in running text.
+   Contrast against white is 6.8 to 1, so it clears WCAG AA as text. */
+$chip-doc-color             : #2C5F8A;
 
 /*
    Grid

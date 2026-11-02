@@ -5,6 +5,7 @@
 #main {
   @include container;
   @include clearfix;
+  max-width: $content-max-width;
   margin-top: 2em;
   padding-left: 1em;
   padding-right: 1em;
@@ -12,7 +13,7 @@
   animation-delay: 0.35s;
 
   @include breakpoint($x-large) {
-    max-width: $x-large;
+    max-width: $content-max-width;
   }
 }
 
@@ -21,6 +22,19 @@
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
     @include suffix(2 of 12);
+  }
+
+  /* No sidebar was rendered, so the article is the first child of #main and
+     the column it would have left free is reclaimed. */
+  #main > &:first-child {
+    @include breakpoint($large) {
+      float: none;
+      width: 100%;
+      margin-left: 0;
+      margin-right: 0;
+      padding-left: 0;
+      padding-right: 0;
+    }
   }
 
   .page__inner-wrap {
@@ -50,9 +64,13 @@
 
 .page__content {
 
+  /* The rule matches the one closing each .paper block below. The top margin
+     is the whole gap between sections, since the 1.3em below the preceding
+     entry is all that else separates them. */
   h2 {
+    margin-top: 8em;
     padding-bottom: 0.5em;
-    border-bottom: 1px solid $border-color;
+    border-bottom: 1px solid $light-gray;
   }
 
   p, li, dl {
@@ -73,7 +91,7 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
 
     &:hover {
       text-decoration: underline;
@@ -93,6 +111,232 @@
   /* welcome lead-in, sized to match the h2 section headings */
   dt.welcome {
     font-size: $type-size-4;
+  }
+
+  /* Header block carrying portrait, name and contact, shown once at the top
+     of the page in place of a sidebar that follows the scroll. */
+  .hero {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    gap: 2em;
+    /* same bottom padding as a .paper entry, so the gap before the first
+       heading matches the gap between one section and the next */
+    padding-bottom: 1.3em;
+  }
+
+  .hero__portrait {
+    flex: 0 0 220px;
+    margin: 0;
+
+    img {
+      width: 100%;
+      border-radius: $border-radius;
+    }
+  }
+
+  .hero__body {
+    flex: 1 1 320px;
+  }
+
+  /* Equal gaps between the four stacked lines. These are rem rather than em so
+     the spacing does not scale with each line's own font size. */
+  .hero__eyebrow,
+  .hero__name,
+  .hero__affil,
+  .hero__bio {
+    margin: 0.7rem 0 0;
+  }
+
+  .hero__eyebrow {
+    margin-top: 0;
+    font-family: $sans-serif;
+    font-size: $type-size-6;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: $gray;
+  }
+
+  .hero__name {
+    padding: 0;
+    border-bottom: 0;
+    font-family: $georgia;
+    font-size: $type-size-2;
+    line-height: 1.1;
+  }
+
+  .hero__affil {
+    font-family: $sans-serif;
+    color: $gray;
+  }
+
+  .hero__bio {
+    text-align: justify;
+  }
+
+  /* These rows are bordered boxes whose edge sits flush with the margin, while
+     the text lines above carry half-leading from line-height on both sides. The
+     larger values add that leading back so every gap in the hero reads alike.
+     The tag row follows text, so it compensates on one side only. */
+  .hero__body .tag-row {
+    margin-top: 1.05rem;
+  }
+
+  .hero__body .paper-meta {
+    margin-top: 1.35rem;
+  }
+
+  @media (max-width: 37.5em) {
+    .hero {
+      gap: 1.2em;
+    }
+
+    .hero__portrait {
+      flex: 0 0 140px;
+    }
+  }
+
+  .paper {
+    padding: 1.1em 0 1.3em;
+
+    dt {
+      margin-top: 0;
+    }
+  }
+
+  /* A rule between consecutive entries rather than below each one, so none
+     trails the last entry of a section. A heading breaks the adjacency. */
+  .paper + .paper {
+    border-top: 1px solid $light-gray;
+  }
+
+  /* row of chips under a title, abstract toggle first */
+  .paper-meta,
+  .tag-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-top: 0.5em;
+  }
+
+  /* Media and press list under an entry. Shown whether or not the abstract
+     beside it is open, so it follows either the chip row or the abstract.
+     The paragraph margin below is dropped so that the space before the next
+     rule comes from the entry's own padding, as it does without a media line. */
+  .paper .small {
+    display: block;
+    margin-top: 0.9em;
+    margin-bottom: 0;
+  }
+
+  /* A research field, which is a label rather than a control. Square corners
+     and no hover state keep it from reading as something to click. */
+  .tag {
+    display: inline-block;
+    margin-right: 0.4em;
+    padding: 0.2em 0.7em;
+    border: 1px solid $light-gray;
+    border-radius: $border-radius;
+    font-family: $sans-serif;
+    font-size: $type-size-6;
+    color: $text-color;
+  }
+
+  /* small outlined control, used for links and for the abstract toggle */
+  .chip {
+    display: inline-block;
+    margin-right: 0.4em;
+    padding: 0.2em 0.85em;
+    border: 1px solid $light-gray;
+    border-radius: 2em;
+    font-family: $sans-serif;
+    font-size: $type-size-6;
+    color: $text-color;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  .chip:hover {
+    border-color: $link-color;
+    color: $link-color;
+  }
+
+  /* A chip that leads somewhere, which the abstract toggle does not. The
+     toggle is a label rather than an anchor, so it keeps the grey treatment.
+     This is the colour links take in running text. */
+  a.chip {
+    border-color: $link-color;
+    color: $link-color;
+  }
+
+  a.chip:hover {
+    border-color: $link-color;
+    background-color: rgba($link-color, 0.1);
+    color: $link-color-hover;
+  }
+
+  /* A chip that opens a document rather than a page or an address. */
+  a.chip--doc {
+    border-color: $chip-doc-color;
+    color: $chip-doc-color;
+  }
+
+  a.chip--doc:hover {
+    border-color: $chip-doc-color;
+    background-color: rgba($chip-doc-color, 0.08);
+    color: $chip-doc-color;
+  }
+
+  /* leading icon inside a chip */
+  .chip i {
+    margin-right: 0.45em;
+  }
+
+  /* A hidden checkbox drives the abstract, which keeps the toggle and the
+     paper link on one row and needs no JavaScript. */
+  .abstract-switch {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    opacity: 0;
+  }
+
+  /* sized and indented like the dd these abstracts used to sit in */
+  .abstract-switch ~ .abstract {
+    display: none;
+    margin-top: 0.9em;
+    margin-left: 1em;
+    font-size: $type-size-6;
+  }
+
+  .abstract-switch:checked ~ .abstract {
+    display: block;
+  }
+
+  .abstract-switch ~ .paper-meta .chip--abstract::after {
+    content: " \25BE";
+  }
+
+  .abstract-switch:checked ~ .paper-meta .chip--abstract::after {
+    content: " \25B4";
+  }
+
+  .abstract-switch:focus ~ .paper-meta .chip--abstract {
+    border-color: $link-color;
+    color: $link-color;
+  }
+
+  /* a paper figure set beside its abstract, stacking on narrow screens */
+  .paper-figure {
+    float: right;
+    width: 42%;
+    margin: 0.2em 0 0.8em 1.5em;
+
+    @media (max-width: 37.5em) {
+      float: none;
+      width: 100%;
+      margin: 1em 0;
+    }
   }
 
   dd {
