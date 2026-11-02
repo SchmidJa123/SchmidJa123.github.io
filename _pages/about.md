@@ -101,21 +101,21 @@ Policy Consulting
 
 <div class="paper">
 <dt><strong>Retirement Planning Using the Digital Pension Overview &ndash; An Empirical Evaluation</strong> </dt>
-with Tabea Bucher-Koenen, Matthias Dolls, Holger Stichnoth and Silke Übelmesser &middot; ongoing
+with <a href="https://www.zew.de/en/team/tbk" target="_blank" rel="noopener noreferrer">Tabea Bucher-Koenen</a>, <a href="https://sites.google.com/view/mathiasdolls" target="_blank" rel="noopener noreferrer">Mathias Dolls</a>, <a href="https://www.zew.de/en/team/hsh" target="_blank" rel="noopener noreferrer">Holger Stichnoth</a> and <a href="https://sites.google.com/view/silkeuebelmesser/home" target="_blank" rel="noopener noreferrer">Silke Übelmesser</a> &middot; ongoing
 <div class="paper-meta">
 <a class="chip" href="https://www.zew.de/forschung/projekte/altersvorsorgeplanung-mit-der-digitalen-rentenuebersicht-empirische-evaluierung" target="_blank" rel="noopener noreferrer">Project page</a>
 </div>
 </div>
 <div class="paper">
 <dt><strong>Micro-simulating VAT and Energy Taxes in ZEW-EviSTA Using the EVS</strong> </dt>
-with Michael Hebsaker and Holger Stichnoth &middot; ongoing
+with <a href="https://www.zew.de/en/team/mkb" target="_blank" rel="noopener noreferrer">Michael Hebsaker</a> and <a href="https://www.zew.de/en/team/hsh" target="_blank" rel="noopener noreferrer">Holger Stichnoth</a> &middot; ongoing
 <div class="paper-meta">
 <a class="chip" href="https://www.zew.de/en/research-at-zew/micro-simulating-vat-and-energy-taxes-in-zew-evista-using-the-evs" target="_blank" rel="noopener noreferrer">Project page</a>
 </div>
 </div>
 <div class="paper">
 <dt><strong>Horizon Europe, WeLaR: New Forms of Work and Workers&rsquo; Demand for Security and Stability</strong> </dt>
-with Zuzanna Kowalik, Piotr Lewandowski, Fabrizio Pompei, Wojciech Szymczak and Laurène Thil &middot; 2025
+with <a href="https://ibs.org.pl/en/team/zuzanna-kowalik/" target="_blank" rel="noopener noreferrer">Zuzanna Kowalik</a>, <a href="https://ibs.org.pl/en/team/piotr-lewandowski/" target="_blank" rel="noopener noreferrer">Piotr Lewandowski</a>, <a href="https://sites.google.com/view/fabrizio-pompei-website/home-page/" target="_blank" rel="noopener noreferrer">Fabrizio Pompei</a>, <a href="https://ibs.org.pl/en/team/wojciech-szymczak/" target="_blank" rel="noopener noreferrer">Wojciech Szymczak</a> and <a href="https://hiva.kuleuven.be/en/stafflist/00151760" target="_blank" rel="noopener noreferrer">Laurène Thil</a> &middot; 2025
 <div class="paper-meta">
 <a class="chip chip--doc" href="https://projectwelar.eu/wp-content/uploads/2025/07/D7.3_New-forms-of-work-and-workers-demand-for-security-and-stability.pdf" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-file-lines" aria-hidden="true"></i>Report</a>
 <a class="chip" href="https://www.zew.de/en/research-at-zew/projects/horizon-europe-welfare-systems-and-labour-market-policies-for-economic-and-social-resilience-in-europe" target="_blank" rel="noopener noreferrer">Project page</a>
@@ -124,7 +124,7 @@ with Zuzanna Kowalik, Piotr Lewandowski, Fabrizio Pompei, Wojciech Szymczak and 
 </div>
 <div class="paper">
 <dt><strong>Quantification of a Basic Child Allowance</strong> </dt>
-with Maximilian Blömer, Holger Bonin, Hans-Martin von Gaudecker, Michael Hebsaker, Tobias Kreuz, Andreas Peichl, Tamara Ritter, Holger Stichnoth and Christian Zimpelmann &middot; 2023
+with <a href="https://www.ifo.de/en/bloemer-m" target="_blank" rel="noopener noreferrer">Maximilian Blömer</a>, <a href="https://www.iza.org/person/273/holger-bonin" target="_blank" rel="noopener noreferrer">Holger Bonin</a>, <a href="https://www.wiwi.uni-bonn.de/gaudecker/" target="_blank" rel="noopener noreferrer">Hans-Martin von Gaudecker</a>, <a href="https://www.zew.de/en/team/mkb" target="_blank" rel="noopener noreferrer">Michael Hebsaker</a>, <a href="https://www.zew.de/en/team/tkz" target="_blank" rel="noopener noreferrer">Tobias Kreuz</a>, <a href="https://www.ifo.de/en/peichl-a" target="_blank" rel="noopener noreferrer">Andreas Peichl</a>, <a href="https://www.ifo.de/en/ritter-t" target="_blank" rel="noopener noreferrer">Tamara Ritter</a>, <a href="https://www.zew.de/en/team/hsh" target="_blank" rel="noopener noreferrer">Holger Stichnoth</a> and <a href="https://christian-zimpelmann.eu/" target="_blank" rel="noopener noreferrer">Christian Zimpelmann</a> &middot; 2023
 <div class="paper-meta">
 <a class="chip" href="https://www.zew.de/en/research-at-zew/quantification-of-a-basic-child-allowance" target="_blank" rel="noopener noreferrer">Project page</a>
 </div>
@@ -132,11 +132,22 @@ with Maximilian Blömer, Holger Bonin, Hans-Martin von Gaudecker, Michael Hebsak
 </div>
 <div class="paper">
 <dt><strong>Scientific Analyses of Bavarian Family Policies</strong> </dt>
-with Tobias Kreuz, Michael Hebsaker, Lukas Riedel and Holger Stichnoth &middot; 2022
+with <a href="https://www.zew.de/en/team/fbu" target="_blank" rel="noopener noreferrer">Florian Buhlmann</a>, <a href="https://www.zew.de/en/team/mkb" target="_blank" rel="noopener noreferrer">Michael Hebsaker</a>, <a href="https://www.zew.de/en/team/tkz" target="_blank" rel="noopener noreferrer">Tobias Kreuz</a>, <a href="https://lukasriedel.gitlab.io/" target="_blank" rel="noopener noreferrer">Lukas Riedel</a> and <a href="https://www.zew.de/en/team/hsh" target="_blank" rel="noopener noreferrer">Holger Stichnoth</a> &middot; 2022
 <div class="paper-meta">
 <a class="chip chip--doc" href="https://www.zew.de/publikationen/wissenschaftliche-analysen-von-bayerischen-familienleistungen" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-file-lines" aria-hidden="true"></i>Report</a>
 <a class="chip" href="https://www.zew.de/en/research-at-zew/scientific-analyses-of-bavarian-family-policies" target="_blank" rel="noopener noreferrer">Project page</a>
 </div>
 <p class="small"><strong>Media:</strong> <a href="https://www.sueddeutsche.de/bayern/bayerisches-familiengeld-kinder-wirkung-kritik-soeder-lux.Fss9QwZe7Mrty2g2mHCnRB?reduced=true" target="_blank" rel="noopener noreferrer">Süddeutsche Zeitung</a> &middot; <strong>Press releases:</strong> <a href="https://www.gruene-fraktion-bayern.de/themen/kinder-jugend-generationen/studie-zum-bayerischen-familiengeld-gerecht-geht-anders/" target="_blank" rel="noopener noreferrer">Green Party</a>, <a href="https://www.zew.de/das-zew/aktuelles/bayerisches-familiengeld-nicht-zielgenau" target="_blank" rel="noopener noreferrer">ZEW</a></p>
+</div>
+<div class="paper">
+<dt><strong>ZEW-EviSTA: A Microsimulation Model of the German Tax and Transfer System</strong> </dt>
+with <a href="https://www.zew.de/en/team/fbu" target="_blank" rel="noopener noreferrer">Florian Buhlmann</a>, <a href="https://www.zew.de/en/team/mkb" target="_blank" rel="noopener noreferrer">Michael Hebsaker</a>, <a href="https://www.zew.de/en/team/tkz" target="_blank" rel="noopener noreferrer">Tobias Kreuz</a>, <a href="https://sites.google.com/view/siegloch/" target="_blank" rel="noopener noreferrer">Sebastian Siegloch</a> and <a href="https://www.zew.de/en/team/hsh" target="_blank" rel="noopener noreferrer">Holger Stichnoth</a> &middot; 2022
+<input class="abstract-switch" type="checkbox" id="abs-evista">
+<div class="paper-meta">
+<label class="chip chip--abstract" for="abs-evista">Abstract</label>
+<a class="chip chip--doc" href="https://ftp.zew.de/pub/zew-docs/dp/dp22026.pdf" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-file-lines" aria-hidden="true"></i>Working Paper</a>
+<a class="chip" href="https://www.zew.de/en/zew-evista" target="_blank" rel="noopener noreferrer">Project page</a>
+</div>
+<div class="abstract" style="text-align: justify"> This article describes ZEW-EviSTA, the microsimulation model developed and used at ZEW - Centre for European Economic Research in Mannheim. The model simulates the German tax and transfer system using household micro level data. By estimating fiscal effects, labor market outcomes as well as distributional impacts the model allows for a comprehensive ex ante analysis of reform proposals. Heterogeneity analyses targeting specific subgroups of the population are feasible, too. The present article describes which data sources are used for the simulation, how key features of the German tax and transfer system are implemented, which simulation methods are employed to analyze policy changes and how the model is validated against official statistics. Moreover, by providing examples of the outputs which ZEW-EviSTA generates the paper gives an idea of the questions that can be answered using the model. </div>
 </div>
 

@@ -64,13 +64,14 @@
 
 .page__content {
 
-  /* The rule matches the one closing each .paper block below. The top margin
-     is the whole gap between sections, since the 1.3em below the preceding
-     entry is all that else separates them. */
+  /* The rule under a section heading is black, which sets it apart from the
+     grey hairlines between entries. The top margin is the whole gap between
+     sections, since the 1.3em below the preceding entry is all that else
+     separates them. */
   h2 {
-    margin-top: 8em;
+    margin-top: 5em;
     padding-bottom: 0.5em;
-    border-bottom: 1px solid $light-gray;
+    border-bottom: 1px solid #000;
   }
 
   p, li, dl {
