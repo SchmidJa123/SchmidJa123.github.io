@@ -1,0 +1,5 @@
+{%- comment -%}
+State of a project entry. `state` is "active" or "done" and carries the colour
+and dot style; `label` carries the wording, which the stylesheet uppercases.
+{%- endcomment -%}
+<span class="status status--{{ include.state }}">{{ include.label }}</span>

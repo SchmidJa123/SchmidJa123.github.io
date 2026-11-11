@@ -141,6 +141,14 @@ $content-max-width          : 1040px;
    Contrast against white is 6.8 to 1, so it clears WCAG AA as text. */
 $chip-doc-color             : #2C5F8A;
 
+/* The two states a project entry can be in, purple while it runs and blue once
+   it is finished. The blue is a brighter relative of the muted $chip-doc-color,
+   carrying the same saturation as the purple so the pair reads as one set.
+   Contrast against white is 5.7 and 5.2 to 1, so each clears WCAG AA as text,
+   and holds over the 10 percent tint behind it. */
+$status-active-color        : #7C3AED;
+$status-done-color          : #2563EB;
+
 /*
    Grid
    ========================================================================== */
