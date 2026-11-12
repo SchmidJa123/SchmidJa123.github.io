@@ -27,6 +27,10 @@ redirect_from:
 <a class="chip" href="mailto:{{ site.author.email }}"><i class="fa-solid fa-envelope" aria-hidden="true"></i>{{ site.author.email }}</a>
 <a class="chip" href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-linkedin" aria-hidden="true"></i>LinkedIn</a>
 </div>
+<div class="hero__news">
+<div class="hero__news-state">{% include status.html state="active" label="Upcoming" %}</div>
+<div class="hero__news-body">I will participate at the <a href="https://www.i4replication.org/games" target="_blank" rel="noopener noreferrer">Marburg Replication Games</a> &amp; <a href="https://www.uni-marburg.de/en/fb02/research/institutes/macie/news_events/news/workshop-political-economy-replication-on-saturday-november-28-2026" target="_blank" rel="noopener noreferrer">Political Economy Replication Workshop</a> on November 27&ndash;28, 2026.</div>
+</div>
 </div>
 </section>
 
